@@ -1,8 +1,15 @@
 # Hi, I'm Tanishka 👋
 
-Growth marketer building AI-native demand engines for B2B SaaS.
-Employee #8 and first dedicated marketing hire at Juno.
-Currently building and scaling the growth engine across HubSpot, paid, lifecycle, events, partnerships, community, and content.
+**Growth marketer building AI-native demand engines for B2B SaaS.**
+Employee #8 and first dedicated marketing hire at Juno. Currently building and scaling the growth engine across HubSpot, paid, lifecycle, events, partnerships, community, and content.
+
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -10,35 +17,29 @@ Currently building and scaling the growth engine across HubSpot, paid, lifecycle
 
 - **Juno** — leading demand generation across paid, lifecycle, events, partnerships, and community. Doubled ARR from $1M to $2M as employee #8 and first marketing hire.
 - **AI workflows** — building agentic pipelines in Claude, ChatGPT, Manus, and Lovable, daily.
-- **Founding-marketer playbooks** — open-sourcing the frameworks I've built at Juno for other early-stage B2B SaaS teams.
+- **Founding-marketer playbooks** — open-sourcing the frameworks I've built for other early-stage B2B SaaS teams. See pinned repos.
 
 ---
 
 ## Featured Work
 
 ### 🎯 Sales & CS Call Intelligence Workflow
-Weekly Claude workflow that ingests call transcripts, surfaces recurring pain points and advocacy candidates, and delivers structured summaries to marketing Slack. Turned two undertapped data sources into weekly campaign fuel and case-study intel.
+Weekly Claude workflow that ingests call transcripts, surfaces recurring pain points and advocacy candidates, and delivers structured summaries to marketing Slack. Turned two undertapped data sources into weekly campaign fuel and case-study intel. → [See the playbook](https://github.com/tanishkakashikar/ai-marketing-workflows)
 
 ### 📈 $7M from One Strategic Partnership
-The Partnership Announcement Campaign playbook — how one ICP-aligned partner produced 64% of Juno's $11M pipeline through synchronized webinars, email blasts, blogs, socials, and events all dropping in the same week.
+The Partnership Announcement Campaign playbook — how one ICP-aligned partner produced 64% of Juno's $11M pipeline through synchronized webinars, email blasts, blogs, socials, and events all dropping in the same week. → [See the playbook](https://github.com/tanishkakashikar/partnership-announcement-campaign)
+
+### 🚀 The Founding Growth Hire's 90-Day Playbook
+Day-by-day playbook for the marketer who just accepted an offer to be employee #8, #12, or the first dedicated marketing hire at an early-stage B2B SaaS startup. → [See the playbook](https://github.com/tanishkakashikar/founding-growth-hire-90-days)
 
 ### 🎪 Modern Tax Pros Community Launch
-Launched a sub-brand community on Circle. SSO configured with the CTO, brand kits applied, spaces architecture designed with CX, founder-led Office Hours programming. Repurposed a 2-week Bootcamp campaign into in-community Learning Sessions, Customer Surveys, and How-To training. Framework applicable to any vertical B2B SaaS.
-
-### 🌐 HubSpot CMS Migration & AI-Built Components
-Migrated Juno's site from Storyblok to HubSpot CMS. Built custom HubSpot CMS components by feeding images to Claude for source code, then editing for color and font directly in HubSpot. Shipped the April website relaunch on schedule.
+Launched a sub-brand community on Circle. SSO with CTO, brand kit configuration, spaces architecture with CX, founder-led Office Hours. Framework applicable to any vertical B2B SaaS.
 
 ### 🎪 Events + Webinars Function (Built from Zero)
-14 field events in one season → $850K pipeline, 200+ demos, $200K revenue. Owned end-to-end: contract negotiations, booth allocation, marketing materials, campaign calendar, ICP-fit selection, AE allocation. Standardized the webinar function with pre/post checklists. Recurring monthly webinars hit 50%+ attendance consistently.
+14 field events in one season → $850K pipeline, 200+ demos, $200K revenue. Owned end-to-end: contract negotiations, booth allocation, marketing materials, campaign calendar, ICP-fit selection, AE allocation.
 
 ### 📊 Segmented HubSpot Lead Routing
-Built the routing logic that separated Juno's ICP into three motions: small firms (under 200 returns) to two dedicated AEs with a demo-first no-trial strategy; other segments round-robin across two additional AEs; enterprise routed straight to the Head of Sales. Sales sequences built directly in HubSpot.
-
-### 🧠 AEO Prompt Library
-Built the BOFU AEO playbook for Juno's website. Identified ~50 prompts tracked across ChatGPT, Claude, and Gemini using HubSpot's AEO tool. Measures brand visibility in AI-search results.
-
-### 📞 Multi-Channel Paid Acquisition Build
-Built Juno's paid stack from scratch across Google (search text + YouTube video), Reddit (retargeting + prospecting via customer quotes from sales call transcripts), LinkedIn (founder-led thought leadership + retargeting from webinar / IRS / partner lists), Vibe CTV (retargeting), and YouTube. Pixel setup coordinated with the web dev team.
+Built the routing logic that separated Juno's ICP into three motions: small firms to two dedicated AEs demo-first, mid-market round-robin across two additional AEs, enterprise routed straight to the Head of Sales.
 
 ---
 
@@ -49,19 +50,17 @@ Built Juno's paid stack from scratch across Google (search text + YouTube video)
 **AI:** Claude · ChatGPT · Manus · Lovable · Claude Design
 **Content:** Notion · Canva · Figma · CapCut · Descript
 **Community:** Circle · SwagUp · Acast · SquadCast
-**Vendor management:** Brand design (Maison) · Web dev (FreshJuice) · Podcast editing (Hatch.fm) · Distribution (Acast)
+**Vendor management:** Brand design · Web dev · Podcast editing · Distribution
 
 ---
 
 ## Playbooks I've open-sourced
 
-- [Partnership Announcement Campaign](link) — how to structure a synchronized cross-channel drop that produced $7M pipeline from one ICP-aligned partner
-- [Bootcamp Webinar Framework](link) — 2-week product deep-dive format that produced $300K pipeline from 300+ registrants
-- [B2B SaaS Community Launch Kit](link) — end-to-end framework for launching a niche vertical community on Circle
-- [AI-Native Marketing Workflows Cookbook](link) — Claude system prompts and agentic workflows I've built and shipped in growth marketing
-- [Founding Growth Hire's 30-60-90 Playbook](link) — a real day-by-day playbook for being employee #8
+- [AI Marketing Workflows](https://github.com/tanishkakashikar/ai-marketing-workflows) — agentic Claude workflows I've shipped
+- [Partnership Announcement Campaign](https://github.com/tanishkakashikar/partnership-announcement-campaign) — the framework that produced $7M pipeline from one partner
+- [Founding Growth Hire's 90-Day Playbook](https://github.com/tanishkakashikar/founding-growth-hire-90-days) — day-by-day playbook for being employee #8
 
-More coming as I ship them.
+More shipping over time.
 
 ---
 
@@ -69,6 +68,14 @@ More coming as I ship them.
 
 - [LinkedIn](https://www.linkedin.com/in/tanishka-kashikar-59b2ab218/)
 - Email: [tanishkakashikar5698@gmail.com](mailto:tanishkakashikar5698@gmail.com)
+
+---
+
+<div align="center">
+
+![Tanishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishkakashikar&show_icons=true&hide_border=true&theme=default)
+
+</div>
 
 ---
 
