@@ -34,10 +34,42 @@ Answer Engine Optimization for bottom-of-funnel buyers. Built inside HubSpot's A
 
 ### Stack
 
-**Marketing ops:** HubSpot Marketing Hub, HubSpot Workflows, GA4, GTM, Google Search Console
-**AI-native execution:** Claude, Claude Cowork, ChatGPT, Gemini, Manus, Lovable
-**Content and community:** StoryBlok, Circle, Headway, Testimonial.io, Typeform, Fireflies, Descript, Squadcast, Acast
-**Ops:** Notion, Slack, Asana, Trello, Canva, Figma, Zoom
+**Marketing ops**
+
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+
+**AI-native execution**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge&logoColor=white)
+
+**Content and community**
+
+![StoryBlok](https://img.shields.io/badge/Storyblok-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white)
+![Circle](https://img.shields.io/badge/Circle-000000?style=for-the-badge&logoColor=white)
+![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeform&logoColor=white)
+![Fireflies](https://img.shields.io/badge/Fireflies-FE4E01?style=for-the-badge&logoColor=white)
+![Descript](https://img.shields.io/badge/Descript-1BE8C0?style=for-the-badge&logoColor=white)
+![Squadcast](https://img.shields.io/badge/Squadcast-6C63FF?style=for-the-badge&logoColor=white)
+![Acast](https://img.shields.io/badge/Acast-000000?style=for-the-badge&logoColor=white)
+![Headway](https://img.shields.io/badge/Headway-6366F1?style=for-the-badge&logoColor=white)
+![Testimonial](https://img.shields.io/badge/Testimonial.io-FFB800?style=for-the-badge&logoColor=black)
+
+**Ops**
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ---
 
