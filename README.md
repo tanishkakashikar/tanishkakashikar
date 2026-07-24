@@ -3,13 +3,60 @@
 **Growth marketer building AI-native demand engines for B2B SaaS.**
 Employee #8 and first dedicated marketing hire at Juno. Currently building and scaling the growth engine across HubSpot, paid, lifecycle, events, partnerships, community, and content.
 
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+### AI & Automation
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-D97757?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4785?style=for-the-badge&logoColor=white)
+
+### Growth Ops
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![HeyReach](https://img.shields.io/badge/HeyReach-4F46E5?style=for-the-badge&logoColor=white)
+
+### Paid Media
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
 ![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Reddit Ads](https://img.shields.io/badge/Reddit_Ads-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![YouTube Ads](https://img.shields.io/badge/YouTube_Ads-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Vibe CTV](https://img.shields.io/badge/Vibe_CTV-000000?style=for-the-badge&logoColor=white)
+
+### Analytics
+![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Content & Design
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Descript](https://img.shields.io/badge/Descript-1B1B1B?style=for-the-badge&logoColor=white)
+
+### Community & Podcast
+![Circle](https://img.shields.io/badge/Circle-8A4FFF?style=for-the-badge&logoColor=white)
+![Acast](https://img.shields.io/badge/Acast-7452FF?style=for-the-badge&logoColor=white)
+![SquadCast](https://img.shields.io/badge/SquadCast-742DDD?style=for-the-badge&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![SwagUp](https://img.shields.io/badge/SwagUp-000000?style=for-the-badge&logoColor=white)
+![Custom Ink](https://img.shields.io/badge/Custom_Ink-E5341A?style=for-the-badge&logoColor=white)
+
+### Project Management
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### Customer Marketing
+![Testimonial.io](https://img.shields.io/badge/Testimonial.io-6366F1?style=for-the-badge&logoColor=white)
+![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeform&logoColor=white)
+![Headway](https://img.shields.io/badge/Headway-F5C518?style=for-the-badge&logoColor=white)
+
+### Meeting Intelligence
+![Fireflies](https://img.shields.io/badge/Fireflies-000000?style=for-the-badge&logoColor=white)
+
+### Website & CMS
+![HubSpot CMS](https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Storyblok](https://img.shields.io/badge/Storyblok-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white)
 
 ---
 
