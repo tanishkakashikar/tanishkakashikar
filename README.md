@@ -46,7 +46,6 @@ Answer Engine Optimization for bottom-of-funnel buyers. Built inside HubSpot's A
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge&logoColor=white)
 
 **Content and community**
