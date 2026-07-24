@@ -22,7 +22,7 @@ Making your product show up in LLM answers at the bottom of the funnel. Prompt l
 ### Stack
 
 **Marketing ops:** HubSpot Marketing Hub, HubSpot Workflows, GA4, GTM, Google Search Console
-**AI-native execution:** Claude Cowork, ChatGPT, Gemini, Manus, Lovable
+**AI-native execution:** Claude Cowork, ChatGPT, Gemini, Lovable
 **Content and community:** StoryBlok, Circle, Headway, Testimonial.io, Typeform, Fireflies, Descript
 **Ops:** Notion, Slack, Asana, Trello, Canva, Figma, Zoom, Squadcast, Acast
 
