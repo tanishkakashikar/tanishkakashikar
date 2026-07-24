@@ -55,7 +55,13 @@ Built Juno's paid stack from scratch across Google (search text + YouTube video)
 
 ## Playbooks I've open-sourced
 
-Coming soon. Watch this space.
+- [Partnership Announcement Campaign](link) — how to structure a synchronized cross-channel drop that produced $7M pipeline from one ICP-aligned partner
+- [Bootcamp Webinar Framework](link) — 2-week product deep-dive format that produced $300K pipeline from 300+ registrants
+- [B2B SaaS Community Launch Kit](link) — end-to-end framework for launching a niche vertical community on Circle
+- [AI-Native Marketing Workflows Cookbook](link) — Claude system prompts and agentic workflows I've built and shipped in growth marketing
+- [Founding Growth Hire's 30-60-90 Playbook](link) — a real day-by-day playbook for being employee #8
+
+More coming as I ship them.
 
 ---
 
