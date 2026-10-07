@@ -5,8 +5,8 @@ Growth marketer at early-stage B2B SaaS. I build pipeline systems and run them A
 **Recent numbers:**
 - $200K program spend → $11M+ qualified pipeline (55x ROI)
 - $7M+ from one strategic partnership
-- $1.2M+ event pipeline across in-person and virtual
-- $1M → $2M ARR in one fiscal year
+- $1.6M+ event pipeline across field and virtual
+- $1M → $2M ARR in two quarters
 
 ---
 
@@ -19,7 +19,7 @@ Production AI workflows across sales call intel, customer research, HubSpot segm
 $7M+ contributed pipeline from one strategic product partnership plus a portfolio of annual marketing partnerships.
 
 **[event-to-pipeline-playbook](../../event-to-pipeline-playbook)**
-14 in-person events, 260+ demos, $850K+ pipeline. Combined with virtual events: $1.2M+ total event motion.
+14 in-person events, 260+ demos, $850K+ pipeline. Combined with virtual events: $1.6M+ total event motion.
 
 **[community-launch-kit](../../community-launch-kit)**
 Sub-brand vertical community on Circle. Landing page built with Eng on Circle's dev platform. Phased rollout from customer-only to public.
